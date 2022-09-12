@@ -1,0 +1,10 @@
+#Make a Simple Calculator which can add,sub,multiply,divide by taking the input from the user.
+print("Welcome to my Digital Calculator")
+print("Please Enter First Number")
+a=input()
+print("Please Enter Second Number")
+b=input()
+print("By adding a & b we get:",int(a)+int(b))
+print("By Subtracting a & b we get",int(a)-int(b))
+print("By Multiplying a & b we get",int(a)*int(b))
+print("By Dividing a & b we get",int(a)/int(b))

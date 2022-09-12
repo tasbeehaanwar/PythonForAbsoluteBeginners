@@ -1,0 +1,13 @@
+#Write a program that reads and print data using escape sequences and also take input from the user & (Asking the name,age,height,gender from the user) by using print() or input() statement.
+print("Please Enter Your name:")
+name=input()
+print("please Enter Your age:")
+age=input()
+print("Please Enter Your height:")
+height=input()
+print("Please Enter Your Gender:")
+gender=input()
+print("Name:",name)
+print("Age:",age)
+print("Height:",height)
+print("Gender:",gender)
